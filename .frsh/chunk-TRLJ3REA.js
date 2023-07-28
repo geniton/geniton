@@ -1,0 +1,1 @@
+import{a as o}from"./chunk-WVTRNJZX.js";import{f as n}from"./chunk-CYAHTR6D.js";var p=o(({type:e="button",class:a="",loading:t,disabled:r,...i},l)=>n("button",{...i,className:`btn no-animation ${a} ${t?"loading":""}`,disabled:r||t,type:e,ref:l})),m=p;export{m as a};

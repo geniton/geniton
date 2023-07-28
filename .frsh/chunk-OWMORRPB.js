@@ -1,0 +1,1 @@
+import{a as n}from"./chunk-KFREUDQL.js";import{f as e}from"./chunk-CYAHTR6D.js";function i(){return e("div",{class:"h-screen w-full flex items-center justify-center",children:e(n,{})})}export{i as a};
