@@ -7,7 +7,7 @@
 
 I'm a passionate **Front-end Developer** always hunting for new technologies and developing interactive projects for the internet. I have acquired an unconditional love for everything about the web and everything that moves around it. My goal is to keep improving my technical skills and delivering exceptional user experiences.
 
-I specialize in modern web technologies including **HTML5**, **CSS3**, **Sass**, **JavaScript**, **React**, **Vue.js**, **TypeScript**, **Redux**, **Redux Saga**, **Next.js**, **Styled Components**, **jQuery**, **WordPress**, **Gulp**, **Webpack**, and **SEO**. 
+I specialize in modern web technologies including **HTML5**, **CSS3**, **Sass**, **JavaScript**, **PHP**, **React**, **Vue.js**, **TypeScript**, **Redux**, **Redux Saga**, **Next.js**, **Styled Components**, **jQuery**, **WordPress**, **Gulp**, **Webpack**, and **SEO**. 
 
 I also work with various APIs such as **Google Maps**, **Vimeo**, **YouTube**, and **Twitter**, plus I have extensive experience with e-commerce platforms like **VTEX IO** (Legacy and IO), **Shopify**, and **Wake**.
 
