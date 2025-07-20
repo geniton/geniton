@@ -25,31 +25,10 @@ I've developed projects in React, Typescript, GraphQL, Javascript, and VTEX IO f
 
 ## 🛠️ Skills
 
-### **Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
-
-### **Technologies**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Hono](https://img.shields.io/badge/-Hono-FF6B35?style=flat-square&logo=hono&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-### **Tools**
-![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![Lighthouse](https://img.shields.io/badge/-Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white)
-![Turbo](https://img.shields.io/badge/-Turbo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+- **Languages**: JavaScript, TypeScript, Node.js, SQL, NoSQL
+- **Technologies**: React.js, Next.js, Vite, Hono, Express, Cypress, Tailwind CSS, CSS-in-JS, GraphQL
+- **Tools**: Bun, Lighthouse, Turbo
 
 ## 🌍 Languages
-
-| Language | Level |
-|----------|--------|
-| 🇧🇷 **Portuguese** | Native |
-| 🇺🇸 **English** | Intermediate |
+- Portuguese: Native
+- English: Intermediate
