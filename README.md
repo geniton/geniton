@@ -25,7 +25,7 @@ I've developed projects in React, Typescript, GraphQL, Javascript, and VTEX IO f
 
 ## 🛠️ Skills
 
-- **Languages**: JavaScript, TypeScript, Node.js, SQL, NoSQL
+- **Languages**: JavaScript, TypeScript, PHP, Node.js, SQL, NoSQL
 - **Technologies**: React.js, Next.js, Vite, Hono, Express, Cypress, Tailwind CSS, CSS-in-JS, GraphQL
 - **Tools**: Bun, Lighthouse, Turbo
 
