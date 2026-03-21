@@ -21,7 +21,7 @@ Currently, I work in web development and technical support, focusing on customiz
 ### Front-end Developer | **Visie Padrões Web**
 **📅 August 2019 – October 2021** | **📍 São Paulo, Brasil**
 
-I've developed projects in React, Typescript, GraphQL, Javascript, and VTEX IO for various clients, collaborating with various squads. I've worked on creating landing pages, product pages (PDPs), A/B testing, and new features.
+I've developed projects in React, Typescript, GraphQL, Wordpress, Javascript, and VTEX IO for various clients, collaborating with various squads. I've worked on creating landing pages, product pages (PDPs), A/B testing, and new features.
 
 ## 🛠️ Skills
 
