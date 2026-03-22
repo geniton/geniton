@@ -16,12 +16,29 @@ I also work with various APIs such as **Google Maps**, **Vimeo**, **YouTube**, a
 ### Front-end Developer | **Retailhub**
 **📅 October 2021 – Present** | **📍 Remote**
 
-Currently, I work in web development and technical support, focusing on customized solutions that meet specific client needs. I was responsible for creating a headless CMS using Next.js, ensuring flexibility and performance in content management, as well as developing a storefront in Next.js to provide a modern and efficient user experience. I also organize team tasks, conduct code reviews to ensure quality, and collaborate directly with the team on the development of new features, promoting continuous product improvement.
+I currently work as a Full Stack developer, using technologies such as React, TailwindCSS, Next.js, Node.js, GraphQL, WordPress, PHP, Laravel, PostgreSQL, and SQLite.
+
+I participated in the creation of a Headless CMS and led the development of a multi-tenant Faststore model, designed to support multiple clients and integrate with different e-commerce platforms (VTEX, Shopify, and Wake).
+
+The project involved building complete storefront and catalog integrations, including SKU modeling and display, product variation management, implementation of cross-selling strategies, and autocomplete with dynamic suggestions.
+
+I also worked on developing the end-to-end purchase flow, including the shopping cart, as well as product (PDP), category (PLP), and search pages, with a focus on performance, scalability, and a great user experience.
 
 ### Front-end Developer | **Visie Padrões Web**
 **📅 August 2019 – October 2021** | **📍 São Paulo, Brasil**
 
-I've developed projects in React, Typescript, GraphQL, Wordpress, Javascript, and VTEX IO for various clients, collaborating with various squads. I've worked on creating landing pages, product pages (PDPs), A/B testing, and new features.
+I worked on several institutional website projects, integrating with WordPress and using the Gutenberg block editor.
+
+I also contributed to the development of Brastemp’s e-commerce, focused on water purifiers for both individual and business customers. In this project, I used technologies such as React, TypeScript, WordPress, JavaScript, GraphQL, and VTEX IO.
+
+I was responsible for developing a complete subscription flow, including:
+
+- Email verification
+- SMS integration via Infobip
+- Scheduling with specific business rules
+- Payment method integration with Vindi
+
+Additionally, I developed a new product page with multiple integrations and implemented A/B tests aimed at improving the conversion rate.
 
 ## 🛠️ Skills
 
