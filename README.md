@@ -1,7 +1,7 @@
 # Geniton Lima
 
 **Front end Developer**\
-📍 São Paulo, São Caetano do Sul, Brasil | 📧 [hi@geniton.dev](mailto:hi@geniton.dev) | 🔗 [LinkedIn](https://www.linkedin.com/in/geniton/) | 💻 [GitHub](https://github.com/geniton)
+📍 São Paulo, São Caetano do Sul, Brasil | 📧 [hi@geniton.dev](mailto:hi@geniton.dev) | 🔗 [LinkedIn](https://www.linkedin.com/in/geniton/)
 
 ## 🏆 Summary
 
